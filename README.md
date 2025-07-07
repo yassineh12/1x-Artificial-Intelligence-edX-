@@ -11,9 +11,13 @@ Files edited:
 
 search.py
 searchAgents.py
-Project 2
+
+#Project 2
 Evaluation function for a reflex agent
 Minimax with multiple adversaries
 Alpha Beta pruning
 Expectimax with average
 An evaluation function for states (instead of actions)
+
+files edited
+multiagents.py
